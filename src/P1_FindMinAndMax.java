@@ -1,7 +1,7 @@
 /*
-	ISYS 320
-	Name(s):
-	Date: 
+  	ISYS 320
+  	Name(s): Derek Stone
+  	Date:    April-26-2018
 */
 
 import java.util.Scanner;
